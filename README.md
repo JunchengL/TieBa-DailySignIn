@@ -4,7 +4,10 @@ TieBa-DailySignIn
 </h1>
 </div>
 
+![Github Actions BaiduTieBa-DailySignIn](https://github.com/JunchengL/TieBa-DailySignIn/workflows/Github%20Actions%20BaiduTieBa-DailySignIn/badge.svg)
+
 ## 工具简介
+
 
 使用Github Action的百度贴吧每日签到
 

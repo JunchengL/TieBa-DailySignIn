@@ -3,7 +3,7 @@ name: "Github Actions BaiduTieBa-DailySignIn"
 on:
   push:
     branches: 
-      - master
+      - main
   schedule:
     - cron:  '10 1 * * *'
 
